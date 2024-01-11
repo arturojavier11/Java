@@ -11,7 +11,7 @@ clara, según sea el caso.
 traducido a un lenguaje que la computadora entiende. (Valor 1 punto)
 
         a. Falso
-        b. Cierto
+        *b. Cierto
 
 2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto)
 
@@ -35,7 +35,7 @@ public class LanguagesFacts{
 }
 
         a. Cierto
-        b. Falso
+        *b. Falso
 
 4. ¿Qué imprimirá el siguiente código en la pantalla? (Valor 1 punto)
 
@@ -49,7 +49,7 @@ public class HelloYou{
   
 }
 
-        a. ¡Hola amigo!
+        *a. ¡Hola amigo!
         b. Este código contiene un error.
         c. "¡Hola amigo!"
 
@@ -65,7 +65,7 @@ public class HechosLenguaje{
           a. Las llaves que marcan el alcance de la clase.
           b. La línea para compilar código: javac HechosLenguaje.java
           c. Un comentario de una sola línea.
-          d. El método main().
+          *d. El método main().
 
 
 6. ¿Cuál sería el nombre del archivo si contuviera el siguiente código? (Valor 1 punto)
@@ -80,7 +80,7 @@ public class HolaMundo{
   
 }
 
-          a. HolaMundo.java
+          *a. HolaMundo.java
           b. No hay restricciones en el nombre del archivo en Java.
           c. HolaMundo.class
 
@@ -89,6 +89,7 @@ Mi_Nombre!” donde “Mi_Nombre” sea tú nombre. (Valor 2 punto)
 
         public class HolaTu {
           public static void main(String[] args) {
+                System.out.println("¡Hola javier!" );
           }
           }
 
@@ -115,7 +116,7 @@ public class LasEscondidas {
           "Tres..."
           "Dos..."
 
-          b. Ahora, usando System.out.println(), genera los siguientes dos declaraciones:
+          *b. Ahora, usando System.out.println(), genera los siguientes dos declaraciones:
 
           "Uno..."
           "¡Listos o no, aquí voy!"
@@ -139,7 +140,7 @@ texto sin formato. (Valor 2 puntos)
 
 Usa comentarios para evitar detener la ejecución del programa por el texto sin formato.
 
-a. Usa la sintaxis de comentarios de una sola línea para la primera parte del texto.
+*a. Usa la sintaxis de comentarios de una sola línea para la primera parte del texto.
 Cambia esta línea a comentario:
 
 Sun Microsystems anunció el lanzamiento de Java en 1995
@@ -176,3 +177,10 @@ d. Debajo del comentario, escribe una declaración que imprima lo siguiente:
 
 e. Escribe la salida del programa.
 
+public class Evaluacion {
+public static void main (String[] args) {
+/*El método main ejecuta las tareas de la clase*/
+System.out.println("¡Mi primer programa java desde cero!");
+
+        }
+}
