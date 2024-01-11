@@ -184,3 +184,5 @@ System.out.println("¡Mi primer programa java desde cero!");
 
         }
 }
+salida:
+¡Mi primer programa Java desde cero!
