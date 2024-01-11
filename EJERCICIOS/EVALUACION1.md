@@ -15,7 +15,7 @@ traducido a un lenguaje que la computadora entiende. (Valor 1 punto)
 
 2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto)
 
-        a. Proporcionan notas legibles para humanos que aclaran el pensamiento.
+        *a. Proporcionan notas legibles para humanos que aclaran el pensamiento.
         b. Proporcionan controles que el compilador debe pasar.
         c. Indican cómo se imprimen las palabras en la pantalla.
         d. Sólo están presentes en el código de compilación.
