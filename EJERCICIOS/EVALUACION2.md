@@ -266,6 +266,20 @@ estás abierto a ofertas de trabajo o no.
 
 f. Iimprime el valor de cada una de las variables, una por cada línea.
 
+	public class MyProfile {
+                public static void main(String[] args) {
+		String nombre = "Javier";
+		int edad = 20;
+		double salarioDeseado = 50000.07
+		char genero = 'm';
+		boolean buscandotrabajo = true;
+		System.out.println(nombre);
+		System.out.println(edad);
+		System.out.println(salarioDeseado);
+		System.out.println(genero);
+		System.out.println(buscandotrabajo);
+                }
+              }
 g. Escribe la salida.
 
 
