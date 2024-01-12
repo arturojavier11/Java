@@ -144,7 +144,18 @@ a. Crea una variable llamada androidCuota que contenga este porcentaje como un
 double.
 
 b. Imprime en valor de androidShare en la consola.
-
+          
+      public class Android {
+      public static void main(String[] args) {
+      
+       double androidCuota;
+      
+       androidCuota = 70.97;
+       
+       System.out.println(androidCuota);
+      }
+      
+      }
 c. Escribe la salida.
 
                 Salida:
@@ -183,12 +194,21 @@ b. Crea una variable llamada primerLetra de tipo char y almacena ahí la primer
 letra de tu nombre.
 
 c. Imprime en la terminal el valor de la variable primerLetra.
+                   
+          public class Char {
+          public static void main(String[] args) {
+              //JAVIER
+              char primerLetra;
+              primerLetra = 'J'; 
+               System.out.println(primerLetra);
+             }
+          }
 
 d. Escribe la salida.
 
 
                 Salida:
-                M
+                J
 
 13. Considera el código del siguiente programa escrito en Java cuyo nombre del
 archivo es Poema.java: (Valor 2 puntos)
@@ -202,6 +222,14 @@ a. Crea una variable llamada verso de tipo string y almacena ahí el verso “Aq
 suceden cosas de mayor trascendencia que las rosas.”.
 
 b. Invoca System.out.println() para imprimir el valor de la variable verso.
+          
+          public class Poema {
+          public static void main(String[] args) {
+		String verso;
+		verso = “Aquí no suceden cosas de mayor trascendencia que las rosas.”
+		System.out.println(verso);
+                }
+              }
 
 c. Escribe la salida.
 
