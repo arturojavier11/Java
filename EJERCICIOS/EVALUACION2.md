@@ -112,6 +112,18 @@ contaste.
 
 b. Imprime numComments.
 
+public class ContComentarios {
+public static void main(String[] args) {
+
+ int numComentarios;
+
+ numComentarios = 6;
+ 
+ System.out.println(numComentarios);
+}
+
+}
+
 c. Escribe la salida.
 
       Salida:
