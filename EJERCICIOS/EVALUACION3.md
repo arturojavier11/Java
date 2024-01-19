@@ -1,4 +1,4 @@
-# Práctica 3.
+ # Práctica 3.
 
 ## 3. OPERADORES
 
@@ -115,6 +115,17 @@ d. Usa + y System.out.println() para imprimir:
 
           Le di a cada amigo <cantidadParaCadaAmigo>...
           con el valor de cantidadParaCadaAmigo en lugar de <cantidadParaCadaAmigo>.
+
+          public class CuentaBancaria {
+              public static void main(String[] args){
+                double saldo = 1000.75;
+                double cantidadARetirar= 250;
+		double saldoActualizado=saldo - saldoActualizado;
+		double cantitadParaCadaAmigo = saldoActualizado/3;
+		boolean PuedesComprarTicket = cantitadParaCadaAmigo>250;
+		System.out.println(puedeComprarTicket)
+              }
+            }
 
 Salida:
 
